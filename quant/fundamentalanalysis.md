@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4dbb113d-1ffb-46a8-bd01-cdd7dabe076f)Table of Contents
+Table of Contents
 
 Fundamental indicators
 Employment reports
