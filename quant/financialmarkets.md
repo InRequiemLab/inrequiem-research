@@ -313,11 +313,51 @@ If you risk $100 to gain $300, your reward to risk ratio is three to one. If you
 The equity simulator on our website is a great tool you can use to show the expectancy of your trading based on strike rate and reward to risk ratio.
 
 ## Trading Sessions
-There are three major trading sessions in trading forex:
+In trading, **"sessions"** refer to the global financial market hours when different regions are active. These influence **liquidity**, **volatility**, and **strategy** — especially for intraday and quant traders.
 
-- Asian
-- European
-- North American
+## 1. Sydney Session (Asia-Pacific Open)
+- **Time (EST):** 5:00 PM – 2:00 AM  
+- **Active Markets:** Australia, New Zealand  
+- **Highlights:**  
+  - Low liquidity  
+  - Best for AUD/NZD pairs  
+  - Often sets the early tone for Asian markets
+
+## 2. Tokyo Session (Asia)
+- **Time (EST):** 7:00 PM – 4:00 AM  
+- **Active Markets:** Japan, Singapore, Hong Kong  
+- **Highlights:**  
+  - Moderate volatility  
+  - Key moves in JPY pairs  
+  - Early reactions to global news
+
+## 3. London Session (Europe)
+- **Time (EST):** 3:00 AM – 12:00 PM  
+- **Active Markets:** UK, Germany, France  
+- **Highlights:**  
+  - **Highest volume session**  
+  - Major activity in GBP and EUR pairs  
+  - Strong institutional involvement  
+  - Overlaps with Tokyo (early) and New York (later)
+
+## 4. New York Session (USA)
+- **Time (EST):** 8:00 AM – 5:00 PM  
+- **Active Markets:** United States, Canada  
+- **Highlights:**  
+  - **Most volatile** session  
+  - USD, equities, indices, and crypto are very active  
+  - Driven by Wall Street and economic news releases
+
+## Session Overlaps (High Liquidity Zones)
+
+### Tokyo–London Overlap
+- **Time (EST):** 3:00 AM – 4:00 AM  
+- **Notes:** Quiet but can trigger Asia–Europe transitions.
+
+###  London–New York Overlap
+- **Time (EST):** 8:00 AM – 12:00 PM  
+- **Most volatile trading window globally**  
+- Perfect for intraday breakout and momentum strategies
 
 All of these sessions provide opportunities in the different markets as the volume changes throughout the day. If you are trading an Asian session, trading a pair like EURGBP doesn’t make much sense. But looking at AUDJPY should bring great trading opportunities.
 
